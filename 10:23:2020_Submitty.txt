@@ -1,0 +1,27 @@
+10/23/2020 Submitty
+
+Went through TA PDF editor and tested functionality to find bugs.
+
+	1)  I found:
+		(a) text assigns itself a NULL size, x-coordinate, and y-coordinate in 
+		    the document.
+		(b) Line objects are primitive: cannot erase portions of objects, cannot
+		    use different colors, cannot use different thicknesses.
+		(c) Interface is wacky and wild; there's a drag-and-drop window situation
+		    going on that isn't ideal.  People are working on this.
+		(d) Grading in grading window is not intuitive.
+
+	2)  I did:
+		(a) Contacted Jack about the PDF editor - it was built by someone outside
+		    of Submitty, and he knew about some things.  Haven't heard back as of 
+		    yet.
+		(b) Nothing yet, because there are more important issues to deal with
+		    here.  We also don't know who built the PDF editor, which this problem
+		    is a part of.  If this was Submitty, I'd make some feature requests:
+			- Ability to change colors of lines
+			- Ability to erase portions of line objects; as you're drawing,
+			  could just continuously make "dots", so it appears as a line,
+			  and can move like a line (when selected together), but would be
+			  erasable in sections rather than as a whole object at once.
+		(c) Nothing, because people are working on that now.  Version being worked
+		    on will eventually need testing and tweaking.
