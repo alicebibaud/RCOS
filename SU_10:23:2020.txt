@@ -1,0 +1,18 @@
+10/23 Submitty Status Update - Alice Bibaud
+
+What I did:
+I conducted two tests: tested out the functionality of the pdf editor available to TA's, as well as the queue interface that TA's interact with for office hours written by Vikram.  It's not much, but I was able to get at least that done - the PDF editor especially has some issues with text; whenever tect is placed in the document, its placement is assigned as NULL.  I tried to reach out to the person who implemented the PDF editor, but he has not responded to my knowledge.
+
+Plans for next week:
+Use git properly once and for all.  All I even really want to do is add some comments to code and make at least one pull request to change things.  The purpose of this is to practice using git and github, as much as it is to fix and fill in some old documentation.
+
+Technical Blockers:
+Don't know how to use git.  There are plenty of resources out there, and I intend to use them to overcome this hurdle this week.
+
+URL's:
+I accomplished things, but those things were just tests.  I reported my findings in GitHub:
+
+https://github.com/semicolon-madness/RCOS/blob/main/10:23:2020_Submitty.txt
+
+
+
