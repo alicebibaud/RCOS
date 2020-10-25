@@ -1,0 +1,22 @@
+10/24 Submitty Mid-Year Review - Alice Bibaud
+
+I don't really know how to treat the Mid-Year review, so I'll just treat it as another status update that covers the whole beginning of the year.  Unfortunately, there's not a whole lot to report, because there have been a bunch of technical blockers in the past, some of which I have overcome, but many I have not.
+
+What I've done:
+In the beginning, I installed a whole bunch of software and learned how to use vagrant.  Communicated a lot to other developers in my attempt to figure out what's going on in the code base; found a bunch of little issues in Professor view that I might like to fix in the future.  As of 10/23, I conducted two tests: tested out the functionality of the pdf editor available to TA's, as well as the queue interface that TA's interact with for office hours written by Vikram.  It's not much, but I was able to get at least that done - the PDF editor especially has some issues with text; whenever tect is placed in the document, its placement is assigned as NULL.  I tried to reach out to the person who implemented the PDF editor, but he has not responded to my knowledge.
+
+Plans for the remainder of the semester:
+Push at least a little bit of code to the code base.  I'm gradually getting there; just hope that I can contribute something at least a little useful before the semester is over.
+
+Technical Blockers:
+- SOLVED: The incredible size of the Submitty code base; this has been a problem just
+  because it's overwhelming to get started and comb through the code to find issues.  This
+  has mostly been solved through Cutler's assurance that code is referenced in issue
+  reports.
+- SOLVED: Vagrant wasn't working for awhile.  My machine got used to it :)
+- UNSOLVED:  Don't know how to use git.  There are plenty of resources out there, and I
+  intend to use them to overcome this hurdle this week.
+- UNSOLVED: don't know PHP yet...  This should not be hard to overcome
+
+URL's:
+I have no additional URL's to report
