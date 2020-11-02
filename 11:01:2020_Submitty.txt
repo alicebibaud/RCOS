@@ -1,0 +1,14 @@
+11/01/2020 Submitty
+
+Went through Section Mamager in the instructor module to find bugs.  I did not succeed in breaking it, and instead:
+
+	1)  I found:
+		(a) Sections behave as they are meant to.
+		(b) When adding sections, vital information appears in a light red box with
+		    white text inside - it's hard to read.  I'd like to fix that.
+
+	2)  I did:
+		(a) Contacted Jack about the PDF editor - it was an unrelated Open Source
+		    project that Submitty absorbed.  No progress to report yet.  
+		(b) Nothing relative to the section manager.  Need to talk to Barb about
+		    what specifically is going wrong with her specific iteration of it.
