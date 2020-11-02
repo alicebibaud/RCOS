@@ -1,0 +1,19 @@
+11/01 Submitty Status Update - Alice Bibaud
+
+What I did:
+I continued working on the PDF editor - got in contact with the guy who implemented it in the website.  I have also worked on trying to break the Section Manager in the instructor module, but I did not succeed.  Mind you, I also did not test it when dealing with 1000 students.  I should try that out sometime, but I don't yet know how to add students to courses.
+
+Plans for next week:
+Use git properly once and for all.  I want to add some comments to code and make at least one pull request to change things.  The purpose of this is to practice using git and github, as much as it is to fix and fill in some old documentation.
+
+Technical Blockers:
+Don't know how to use git.  There are plenty of resources out there, and I intend to use them to overcome this hurdle this week.  Also don't know how to add students to course; don't know how to create student objects.  Will consult Barb on 11/02.
+
+URL's:
+I accomplished a test.  I reported my findings in GitHub:
+
+https://github.com/semicolon-madness/RCOS/blob/main/11:01:2020_Submitty.txt
+
+
+
+
