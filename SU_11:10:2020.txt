@@ -1,0 +1,19 @@
+11/10 Submitty Status Update - Alice Bibaud
+
+What I did:
+I tested out the instructor's window for managing graders; Barb (who has 63 sections, 30+ graders, and 1000+ students) found a bug in the UI that did not enable her to checkthan 1048 boxes in the gigantic grid that she created.  The design apparently does not scale well.
+
+Plans for next week:
+Download postgress and learn how to mess with databases.  At least have some ability to do that before next Monday.
+
+Technical Blockers:
+Can't find the code for specific issues; I actually suspect it's decently easy to find.  Need to comb through Submitty Deveolpers website and look for more information.
+
+URL's:
+I accomplished a test.  I reported my findings in GitHub:
+
+https://github.com/semicolon-madness/RCOS/blob/main/11:01:2020_Submitty.txt
+
+
+
+
