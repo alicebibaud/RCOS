@@ -1,0 +1,7 @@
+12/04/2020 Submitty
+
+So I haven't done much - I have destroyed vagrant on my machine because it was taking up a lot of resources, so I couldn't do things like run vagrant and webex at the same time.  This week, I've been searching for the infamous issue #6017:
+
+https://github.com/Submitty/Submitty/issues/6017
+
+Honestly, it's not that infamous; I am have just not combed through the code enough to find it because I'm intimidated and scared.  We'll see if I get that done before Wednesday of next week, after which I will be doomed.
