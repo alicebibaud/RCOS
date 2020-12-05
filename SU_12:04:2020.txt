@@ -1,0 +1,19 @@
+12/04 Submitty Status Update - Alice Bibaud
+
+What I did:
+vagrant destroyed, hunted around for the issue I was assigned.  I'll be honest, this project wasn't really it for me; I needed to not be as intimidated and scared as I am to tackle this, and did not allocate enough time.  However, we persevere!  I am going to commit something by the end of this semester, even if it's just a comment.  I will commit something.
+
+Plans for next week:
+Literally just commit something.  Something helpful, that won't break things (like I was somehow able to do with the Google Docs folder with all the notes in it lol).
+
+Technical Blockers:
+Mostly my own brain and confidence in my coding ability.  It's cool!
+
+URL's:
+I reported my findings in GitHub:
+
+https://github.com/semicolon-madness/RCOS/blob/main/12:04:2020_Submitty.txt
+
+
+
+
