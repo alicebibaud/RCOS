@@ -1,0 +1,31 @@
+Final Commit Summary - Alice Bibaud
+
+URL's:
+https://github.com/semicolon-madness/Submitty
+https://github.com/semicolon-madness/RCOS
+https://github.com/semicolon-madness/RCOS/blob/main/10:23:2020_Submitty.txt
+https://github.com/semicolon-madness/RCOS/blob/main/11:01:2020_Submitty.txt
+https://github.com/semicolon-madness/RCOS/blob/main/11:01:2020_Submitty.txt
+https://github.com/semicolon-madness/RCOS/blob/main/11:15:2020_Submitty.txt
+https://github.com/semicolon-madness/RCOS/blob/main/11:20:2020_Submitty.txt
+https://github.com/semicolon-madness/RCOS/blob/main/12:04:2020_Submitty.txt
+
+
+Notes and More URL's:
+Submitty proved very difficult to commit code to for me, a beginner very intimidated by the open source world.  In my attempt
+to contribute something, I learned the ins and outs of the TA and Instructor modules for Submitty:
+
+https://submitty.org/grader/
+https://submitty.org/instructor
+
+Reported some issues:
+
+https://github.com/Submitty/Submitty/issues/5980
+https://github.com/Submitty/Submitty/issues/5919
+
+Tried to learn PHP, and wrestled with vagrant a lot:
+
+https://www.w3schools.com/php/
+https://learn.hashicorp.com/collections/vagrant/getting-started
+
+Learned a little bit about websockets, databases, servers, refactoring, and cacheing just by interacting with all this stuff and hanging out in the meetings and talking with people on the team.  Also learned how to test effectively and how to look for fixable bugs in code.
