@@ -1,0 +1,42 @@
+02/28 s390x LinuxONE Status Update - Alice Bibaud
+
+What I did:
+
+	- This week, my team and I discovered that we could not port Qualcomm's AI Model Efficiency Toolkit
+	  because we would need an Nvidia GPU to run it.  We halted progress on that project after
+	  attempting to build an instance of AIMET on the linuxONE computers; we could not get around the
+	  GPU requirement, though we were able to install Nvidia's docker on VMs running Red Hat 7.8.
+
+	- I got the idea of porting an RCOS project to s390x, so that our open source contributions might
+	  be run on big scary IBM mainframes - exciting!  I messaged all the project leads about whether
+	  that would be possible, and got many responses.  I chose OED, in part for its practical
+	  academic application and in part because of all its documentation.
+
+	- I'm currently attempting a build of OED on the linuxONE VM
+
+Plans for next week:
+
+	- Get into that VM and start working on getting OED running.
+
+		- start figuring out how to test whether or not the program works, and
+		- figure out how to port it correctly if not.
+
+	- If not, we should move onto another project.  It's getting late in the semester, so we need to
+	  find something FAST.
+
+
+Technical Blockers:
+
+	Not a technical blocker, but something I'm concerned about:
+	
+	- This project is one of many commits, but also one of lots of very important communication and
+	  managing a lot of moving parts.  I'm concerned that my grade won't reflect the effort I put into
+	  this class if I'm scored entirely on commits.
+	
+
+URL's:
+AIMET Installation and Usage Guide: https://github.com/quic/aimet/blob/develop/packaging/docker_install.md
+
+Nvidia Docker Documentation Repository: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/overview.html
+
+My fork of the OED Repo: https://github.com/semicolon-madness/OED
