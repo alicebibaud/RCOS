@@ -7,7 +7,7 @@ the s390x architecture used by the IBM Z and LinuxONE machines.
 
 Any file committed between 01/01/2021 and 05/01/2021 is part of this project.
 
-# Contributions #
+### Contributions ###
 
 - Created documentation on the compatibility of Linux and OED
 - Created documentation on the compatibility of Linux and docker-compose
@@ -20,7 +20,7 @@ Institute (RPI).
 Any file committed between 10/04/2020 and 12/31/2020 is related to [Submitty](https://github.com/Submitty/Submitty).
 
 
-# Contributions #
+### Contributions ###
 
 - Testing the functionality of new features
 - Issue finding, replicating, and reporting
