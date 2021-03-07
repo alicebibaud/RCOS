@@ -1,4 +1,4 @@
-### RCOS ###
+# RCOS #
 This repo stores documentation as to what I've done in the Rensselear Center for Open Source (RCOS).
 
 ## IBM s390x + LinuxONE ##
