@@ -10,7 +10,7 @@ For example, at the time of this document's creation, the most recent stable rel
 
 `sudo curl -L "https://github.com/docker/compose/releases/download/1.28.5/docker-compose-$(linux1 -s)-$(linux1 -m)" -o /usr/local/bin/docker-compose`
 
-check out the repo for docker compose here [INSERT LINK TO DOCKER / COMPOSE] for the most current stable release.
+check out the repo for docker compose [here](https://github.com/docker/compose/releases) for the most current stable release.
 
 Then apply executable permissions to the binary:
 
@@ -30,7 +30,7 @@ A line that looks like what follows should appear, where `RELEASE` is replaced w
 
 ## Compatibility ##
 
-This is a list of Linux distros and their versions that are ~difinitively~ compatible with `docker-compose`.  There may be more distros that are compatible, or earlier versions that work.
+This is a list of Linux distros and their versions that are difinitively compatible with `docker-compose`.  There may be more distros that are compatible, or earlier versions that work.
 
 ### Ubuntu ###
 compatible since >= 16.04
@@ -39,9 +39,6 @@ compatible since >= 16.04
 
 ### Debian ###
 compatible since >= 9.0
-
-### Red Hat Enterprise Linux (RHEL) ###
-[VERIFY YOURSELF] compatible >= 8.2
 
 ### Alpine Linux ###
 compatible since >= 3.10
@@ -71,7 +68,7 @@ Devuan is based on Debian, so as long as you have >= Debian 9.0, you should be g
 all versions should be compatible
 
 ### Fedora ###
-Fedora: compatible since >= 28, but it's very complicated [INSERT LINK INSTALL DOCKER COMPOSE FEDORA 32].
+Fedora: compatible since >= 28, but [it's very complicated](https://techguidereview.com/install-docker-compose-fedora-32/).
 
 Fedora Desktop Edition (64-bit) for Linux: unknown, but it should work with most versions; `docker-compose` typically works on 64-bit operating systems.
 
@@ -79,7 +76,7 @@ Fedora Desktop Edition (64-bit) for Linux: unknown, but it should work with most
 compatible since >= 1.2.0
 
 ### Oracle Linux ###
-compatible since >= 8, but it's very complicated [INSERT LINK INSTALL DOCKER COMPOSE ON ORACLE LINUX 8].
+compatible since >= 8, but [it's very complicated](https://dev.to/kylejschwartz/install-docker-compose-on-oracle-linux-8-1kb0).
 
 ### SUSE Linux Enterprise Server ###
 compatible since >= 12
@@ -109,4 +106,4 @@ compatible since >= 16.04
 ### Red Hat Enterprise Linux (RHEL) ###
 incompatible <= 7.8
 
-docker-compose is only compatible with 64-bit operating systems.  I wasn't able to find this information online, because the official site with that answer is blocked by a paywall [INSERT LINK DOES RED HAT SUPPORT DOCKER COMPOSE]. I hope this list saves you a bit of time in your development.
+docker-compose is only compatible with 64-bit operating systems.  I wasn't able to find this information online, because the [official site](https://access.redhat.com/solutions/1586663) with that answer is blocked by a paywall. I hope this list saves you a bit of time in your development.
