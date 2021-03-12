@@ -1,0 +1,26 @@
+01/01 Project Name Status Update - Firstname Lastname
+
+What I did:
+
+	[all the sick stuff you did this week; go in depth, so the mentors can see that you're making progress]
+
+	Commits:
+
+	[an optional list of the commits + short descriptions of those you made during the week.  doesn't have
+	 to be many; maybe just 1 or 0 if you were otherwise busy.  As a mentor, it helps to see a list of these
+	 for clarity.]
+
+Plans for next week:
+
+	[short list of next steps you plan to take.  Don't leave this blank! - say you're figuring it out if you
+	 don't have a plan yet.]
+
+Technical Blockers:
+	
+	[short list of next steps you plan to take.  Don't leave this blank! - say you have no technical blockers
+	 if that is the case.  Make sure that you resolve these each week as they come up; we don't want you to
+	 be stuck on one technical blocker all semester!]
+
+URL's:
+Commit 1:  https://github.com/username/repo/commit/[insert long hex number(???) here]
+Commit 2:  https://github.com/username/repo/commit/[insert long hex number(???) here]
