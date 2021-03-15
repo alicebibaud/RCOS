@@ -1,0 +1,22 @@
+03/12 s390x LinuxONE Status Update - Alice Bibaud
+
+What I did:
+
+	Created some status update documentation and shared it with students who have been struggling with those!
+
+	Commits:
+
+	- PR for OED documentation fix got approved!
+	- Commit for status update template + example in personal RCOS repo.
+
+Plans for next week:
+
+	Learn Docker and make documentation on my process.
+
+Technical Blockers:
+	
+	None this week :)
+
+URL's:
+Commit to OED: 		      https://github.com/OpenEnergyDashboard/OED/commit/9a4d3f10973445bb9d31a3d84099ce46ac00d6dd
+Commit to personal RCOS repo: https://github.com/semicolon-madness/RCOS/commit/c63bf5c8360a0b246e4b6d3c926c559494bbda56
