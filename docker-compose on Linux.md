@@ -1,5 +1,7 @@
 # `docker-compose` on Linux #
 
+SOME INFORMATION MAY NOT BE CORRECT ANY MORE
+
 ## Installation ##
 
 Use the following command to download Docker Compose:
