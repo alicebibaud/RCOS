@@ -1,0 +1,9 @@
+4/6/2021 - Alice Bibaud - s390x-linuxONE
+
+Some observations I had while trying to build OED with docker-compose:
+
+1) it failed at trying to build the web container
+
+2) the web container is kinda built off of a file called app
+
+3) app is in JavaScript, and apparently javascript arrays are usually little endian, and s390x is big endian.  So I want to learn JavaScript to try and rebuild the arrays in a big endian style
