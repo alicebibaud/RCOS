@@ -105,6 +105,7 @@ compatible since >= 16.04
 
 ### Red Hat Enterprise Linux (RHEL) ###
 32 bit incompatible through all versions
+
 check [here](https://github.com/katyushasama/RCOS/blob/main/docker_download.txt) to install docker and docker compose
 
 docker-compose is only compatible with 64-bit operating systems, so make sure you have a 64-bit version of RHEL.  I wasn't able to find this information online, because the [official site](https://access.redhat.com/solutions/1586663) with that answer is blocked by a paywall. I hope this list saves you a bit of time in your development.
