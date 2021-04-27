@@ -1,7 +1,5 @@
 # `docker-compose` on Linux #
 
-SOME INFORMATION MAY NOT BE CORRECT ANY MORE
-
 ## Installation ##
 
 Use the following command to download Docker Compose:
@@ -106,6 +104,7 @@ compatible since >= 16.04
 ## Final Notes ##
 
 ### Red Hat Enterprise Linux (RHEL) ###
-incompatible <= 7.8
+32 bit incompatible through all versions
+check [here](https://github.com/katyushasama/RCOS/blob/main/docker_download.txt) to install docker and docker compose
 
-docker-compose is only compatible with 64-bit operating systems.  I wasn't able to find this information online, because the [official site](https://access.redhat.com/solutions/1586663) with that answer is blocked by a paywall. I hope this list saves you a bit of time in your development.
+docker-compose is only compatible with 64-bit operating systems, so make sure you have a 64-bit version of RHEL.  I wasn't able to find this information online, because the [official site](https://access.redhat.com/solutions/1586663) with that answer is blocked by a paywall. I hope this list saves you a bit of time in your development.
