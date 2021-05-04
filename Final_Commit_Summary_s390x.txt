@@ -1,0 +1,35 @@
+05/03 s390x LinuxONE Final Commit Summary - Alice Bibaud
+
+What I did:
+
+	Tested the ported OED on my vm - it worked!  Also committed some stuff.
+
+	Commits this week:
+
+	- made new branch; updated dockerfile with correct code
+	- fixed comments in main branch to reflect findings
+
+Plans for next week: 	N / A
+
+Technical Blockers: 	N / A
+
+URL's:
+main branch:	     	      https://github.com/semicolon-madness/OED/pull/6
+new branch:	     	      https://github.com/semicolon-madness/OED/commit/fe138d07cb5744e1617c9eb9ed7baca7d8e776e8
+^ fix:		     	      https://github.com/semicolon-madness/OED/commit/d3e727d03c21e2cc9c58747bcfe4bf97b92039fa
+documentation fix:   	      https://github.com/semicolon-madness/RCOS-1/commit/e11ed25915988b0be2a1f1ce57ded4ad2cee4a38
+Update from OED:     	      https://github.com/semicolon-madness/OED/pull/4
+Updated Linux guide:	      https://github.com/semicolon-madness/RCOS/commit/72cce88ad39d7ff5c63752366cb54789ae85ea6b
+Markdown fix:       	      https://github.com/semicolon-madness/RCOS/commit/5351bc6470603e9f229d1b55b01b80554e017745
+oed_thoughts: 		      https://github.com/semicolon-madness/RCOS/commit/81e75142764e8c5b6799985ab454100ba7211daf
+Commit to personal OED fork:  https://github.com/semicolon-madness/OED/commit/9a4d3f10973445bb9d31a3d84099ce46ac00d6dd
+Commit to personal RCOS repo: https://github.com/semicolon-madness/RCOS/commit/1287fbff90c429fba122dc8e067260f82ff04d01
+PR for commit to OED: 	      https://github.com/OpenEnergyDashboard/OED/pull/603
+Commit to OED: 		      https://github.com/OpenEnergyDashboard/OED/commit/9a4d3f10973445bb9d31a3d84099ce46ac00d6dd
+Commit to personal RCOS repo: https://github.com/semicolon-madness/RCOS/commit/c63bf5c8360a0b246e4b6d3c926c559494bbda56
+Issue opened in IBM Wiki:     https://github.com/linux-on-ibm-z/docs/issues/43
+Commit to OED: 		      https://github.com/OpenEnergyDashboard/OED/commit/9a4d3f10973445bb9d31a3d84099ce46ac00d6dd
+Commit to personal RCOS repo: https://github.com/semicolon-madness/RCOS/commit/c63bf5c8360a0b246e4b6d3c926c559494bbda56
+Commit to personal OED fork:  https://github.com/semicolon-madness/OED/commit/9a4d3f10973445bb9d31a3d84099ce46ac00d6dd
+Commit to personal RCOS repo: https://github.com/semicolon-madness/RCOS/commit/1287fbff90c429fba122dc8e067260f82ff04d01
+PR for commit to OED: 	      https://github.com/OpenEnergyDashboard/OED/pull/603
