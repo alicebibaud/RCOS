@@ -1,0 +1,20 @@
+06/21 Status Update - Alice Bibaud
+
+What I did:
+
+	- met with electonic music group and discussed a plan of action; oversaw initial development on 06/17
+	- posted rcos status update template and example in RCOS chat
+
+Plans for next week:
+
+	- create an instance of any A frame application and try to make some shapes
+	- start planning my workshop.
+
+Technical Blockers:
+	
+	I have a concussion - the hardware I operate out of is not in peak condition.  I will be healing over the
+	next week, and hopefully won't have anything more to report on that.
+
+URL's:
+Status Update Template: https://github.com/semicolon-madness/RCOS/blob/main/SU_TEMPLATE.txt
+Status Update Example:  https://github.com/semicolon-madness/RCOS/blob/main/SU_EXAMPLE.txt
