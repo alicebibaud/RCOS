@@ -1,0 +1,22 @@
+06/21 Status Update - Alice Bibaud
+
+What I did:
+
+	- recovered from concussion
+	- met with CCPD about resume stuff for my workshop
+		- accomplished last week's goal of planning
+
+Commits:
+	- Proof of meeting: https://github.com/semicolon-madness/RCOS/commit/24088271ba4bdf4941f55d02da3c66193d31111d
+
+Plans for next week:
+
+	- create an instance of any A frame application and try to make some shapes
+	- start working on my workshop
+
+Technical Blockers:
+	
+	none this week
+
+URL's:
+Meeting with CCPD: Screen Shot 2021-07-01 at 11.50.03 AM.png
