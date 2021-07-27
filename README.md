@@ -11,6 +11,7 @@ Any file committed between 01/01/2021 and 05/01/2021 is part of this project.
 
 - Created documentation on the compatibility of Linux and OED
 - Created documentation on the compatibility of Linux and docker-compose
+- Ported OED to the s390x Architecture
 
 ## Submitty ##
 Submitty is an open source programming assignment submission system from the Rensselaer Center for
