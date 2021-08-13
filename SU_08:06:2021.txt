@@ -1,0 +1,36 @@
+08/06 Status Update - Alice Bibaud
+
+What I did:
+
+	- Graded 07/30 status updates; mostly good!
+	- Re-did a lot of the Graf stuff; they created a feature I had been working on, so
+	  I merged. my team's contributions with theirs.
+
+Plans for next week:
+
+	- Grade today's status updates
+	- Watch the presentations
+	- Don't die because of all the work
+
+Technical Blockers:
+	
+	none this week
+
+URL's:
+https://github.com/RPI-UST/Graf/commit/ae4421b9019a49e06ae861b297e3c90ae773effb
+https://github.com/RPI-UST/Graf/commit/99cc3769546b466fe5743863ffa608aed63c8d01
+https://github.com/RPI-UST/Graf/commit/cee404d996484166d8ca6d12cb10fbf66a2fa4c7
+https://github.com/RPI-UST/Graf/commit/ea20e6a462104f2ed5d77a2bd048c05ea436709d
+https://github.com/RPI-UST/Graf/commit/e044f20559eb5ff55bb0cdfe6fbc60d09ec06caf
+https://github.com/RPI-UST/Graf/commit/948cdfbd01d2f93e1f4e1ae8c9099bff0d90a69b
+https://github.com/RPI-UST/Graf/commit/1cb22d1ec8779fc8f18a1d6e08e58b40961eed1c
+https://github.com/RPI-UST/Graf/commit/390e840fb9a2c7235c0ed91a5580dc08c9e54097
+https://github.com/RPI-UST/Graf/commit/642a82e179ae400c407f20e683cfb062564d835e
+https://github.com/RPI-UST/Graf/commit/4c9e400e65941c9937b9ee6024684c9b5750af7d
+https://github.com/RPI-UST/Graf/commit/9b448f1951ce76cc4d584ea29223c06276678b3e
+https://github.com/RPI-UST/Graf/commit/e09794b106c77dc859aba66b6d038a306ffb1213
+https://github.com/semicolon-madness/Graf/commit/434e3969124a1564a9bec5361b95366c109840a7
+https://github.com/semicolon-madness/Graf/commit/83a93d75f8efc81a3eaac2b51df2e293bbada3e2
+https://github.com/semicolon-madness/Graf/commit/5883fa2fa5e6ab8aeb6772144fe3f9a409bfc633
+https://github.com/semicolon-madness/Graf/commit/f1d4b04e1ceb281e234fbfb90afe734d3f9b68c0
+https://github.com/semicolon-madness/Graf/commit/4e9ba4dd941b0f7b763b94025df5703e33081225
