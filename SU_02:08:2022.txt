@@ -1,0 +1,36 @@
+02/08/2022 A Series of Small Projects Status Update - Alice Bibaud
+
+What I did:
+
+	- Messed around with formatting in the personal website; basically yeeted a lot of the boilerplate stuff
+	- turns out the eviction project stuff already exists.  Made an aws account and started setting up the
+	  database.
+
+	Commits:
+
+	- SEVERAL commits for reformatting the personal website benji set up
+
+Plans for next week:
+
+	- Since setup documentation was written for the existing eviction project repo, somebody converted the 
+	  config file from json to python.  I'm emailing the repo owner and asking about that; hopefully, from
+	  there, I can
+	  
+		- finish setting up the database and begin testing / running the application
+		- update the documentation
+
+	- If I have time, it might be cute to work on some website stuff with Zack... who's to say
+
+Technical Blockers:
+	
+	none (yet)
+
+URL's:
+Commits to Personal Website: 
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/e5730529cefcc1acb891cedf232f038a819a5622
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/b47ce68e7adedc9873aff5cc1cc24c8a8d637d3b
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/e2e63028828069c676f3ddb5c8f2efed091a9124
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/ee8b4f72a1eabb7280924293b8bdd1abd7d6f9cd
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/dc8597bb819b2beb0192f0bcd03f2a417ca1f146
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/7c3f01fe198104dd51ae05097af9164321aba285
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/5c1cd6faab554786ff5b67e9eeff201050cefb65
