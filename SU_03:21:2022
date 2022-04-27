@@ -1,0 +1,42 @@
+03/21/2022 A Series of Small Projects Status Update - Alice Bibaud
+
+What I did:
+
+	- Ended Eviction Project.  I couldn't contribute to it with the time and knowledge
+	  that I have.  It was stressing me out too much, and I didn't want to let them
+	  down
+	- Finished the travel portion of website
+	- Worked on mobile version of website
+
+	Commits:
+
+	- Worked on mobile version of the website and updated the travel bits
+
+Plans for next week:
+
+	- finish up the website.
+		- an interactive resume bit.  my work experience is a lot, and I want
+		  people to be able to scroll through and find resources.
+		- flesh out the CSS this time.
+		- mobile version.
+
+	- Get started on Graf.
+		- Think I might start out by converting my PSoft graph representation into
+		  javascript, both because I don't want to have to redo the logic and
+		  because that will probably help me figure out js a bit better.
+
+	- Go to Paul's Telescope Deep Dive
+
+Technical Blockers:
+	
+	none (yet)
+
+URL's:
+Commits to Personal Website: 
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/d55ef632452fe2e7db3658fa9d89f877f2c3e20a
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/df6378f5de965fbe79134ac8a1f6c4803849f76b
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/1d3a0573a82fbf888ed72ecb08f8e60fc8b267c3
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/8884bd485cc41332daa4a3460887a223fd372913
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/cf1bce31c2c37d423effd53db49d382c80e29f72
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/3d92d1a8652cd65c63dbe27f4de2894cee5b7188
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/a1fba35a592b09b4051355204063b201606f4418

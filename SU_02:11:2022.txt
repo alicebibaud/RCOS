@@ -1,0 +1,29 @@
+02/14/2022 A Series of Small Projects Status Update - Alice Bibaud
+
+What I did:
+
+	- Contacted Eviction Project People about database setup; none of them have gotten back to me tho.
+	- Merged some cool stuff that Bill did into the personal website repo repo
+
+	Commits:
+
+	- ^ that merge
+
+Plans for next week:
+
+	- Since setup documentation was written for the existing eviction project repo, somebody converted the 
+	  config file from json to python.  I'm emailing the repo owner and asking about that; hopefully, from
+	  there, I can
+	  
+		- finish setting up the database and begin testing / running the application
+		- update the documentation
+
+	- If I have time, it might be cute to work on some website stuff with Zack... who's to say
+
+Technical Blockers:
+	
+	none (yet)
+
+URL's:
+Commits to Personal Website: 
+	https://github.com/alicebibaud/alicebibaud.github.io/commit/e03f072ea804e3257f1404a1f5f551a65d8775df

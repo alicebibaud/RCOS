@@ -1,0 +1,35 @@
+02/25/2022 A Series of Small Projects Status Update - Alice Bibaud
+
+What I did:
+
+	- Finally did some website stuff!  Learned a bit of JS, CSS, and HTML on my
+	  lonesome.
+	- Contacted Eviction Project Owner and followed up; no respose yet.
+
+	Commits:
+
+	- new branch and refactoring of website.
+
+Plans for next week:
+
+	- finish up the website.
+		- gotta actually implement the settings page - it's just going to have
+		  dark / light mode on it (lower priority)
+		- an interactive resume bit.  my work experience is a lot, and I want
+		  people to be able to scroll through and find resources.
+		- make it cute!  parallax is surprisingly easy, so we're hoping to get on
+		  that.
+
+	- Start eviction project implementation without the code base owner.
+		- it's been weeks; I can't wait for them to respond anymore.  time to
+		  decrypt some funky python files for database information!
+
+Technical Blockers:
+	
+	none (yet)
+
+URL's:
+Commits to Personal Website: 
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/5d049aae329d146b2d5aba23e4bf76d61247c60a
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/45556ed9374f81338f38880c3642f398fea60bdc
+	- https://github.com/alicebibaud/alicebibaud.github.io/commit/ce06680c668bcdc9309a3d83793ac9827d1e552b
