@@ -1,4 +1,4 @@
-Alice Bibaud - Mid Year Report
+Alice Bibaud - Final Commit Summary s2022
 
 https://github.com/alicebibaud/alicebibaud.github.io/commit/5d049aae329d146b2d5aba23e4bf76d61247c60a
 https://github.com/alicebibaud/alicebibaud.github.io/commit/45556ed9374f81338f38880c3642f398fea60bdc
@@ -17,3 +17,15 @@ https://github.com/alicebibaud/alicebibaud.github.io/commit/ee8b4f72a1eabb728092
 https://github.com/alicebibaud/alicebibaud.github.io/commit/dc8597bb819b2beb0192f0bcd03f2a417ca1f146
 https://github.com/alicebibaud/alicebibaud.github.io/commit/7c3f01fe198104dd51ae05097af9164321aba285
 https://github.com/alicebibaud/alicebibaud.github.io/commit/5c1cd6faab554786ff5b67e9eeff201050cefb65
+https://github.com/rcos/rcos-handbook/commit/1da5625d9c5b7e49f57fd08edf2d8ccf6d220d59
+https://github.com/rcos/rcos-handbook/commit/f4708578d73ebbdbd174c88d06c11c1836f7f771
+https://github.com/rcos/rcos-handbook/commit/ee06a3998877bbfbe965c79b32798037c4be19db
+https://github.com/rcos/rcos-handbook/commit/e8e106fd7850309f0c67304749f8d37d04d62467
+https://github.com/alicebibaud/alicebibaud.github.io/commit/1e1f4c83bf86421a422a30c8efa5b8c350f8fd87
+https://github.com/alicebibaud/alicebibaud.github.io/commit/b5f963dc81381f5af934c517d3306016f978fbc8
+https://github.com/alicebibaud/alicebibaud.github.io/commit/e64a7c3320d58a21cad304ed7baea48fd72e55ec
+https://github.com/alicebibaud/alicebibaud.github.io/commit/3f48e4950397fd099f72bd77f5107ed720603cc3
+https://github.com/alicebibaud/alicebibaud.github.io/commit/f8501a7eefd53d9f158cc9e67641a49575d22c31
+https://github.com/alicebibaud/alicebibaud.github.io/commit/1400a21efed92634970de9e6d180e77f3ff25bc0
+https://github.com/alicebibaud/alicebibaud.github.io/commit/3604c8148d902d7b17aa7ea654dea712548b99ac
+https://github.com/alicebibaud/alicebibaud.github.io/commit/2499b547769193096d30a9f363a12168a948d3b3
