@@ -28,7 +28,7 @@ A line that looks like what follows should appear, where `RELEASE` is replaced w
 
 `docker-compose version RELEASE, build BUILD#`
 
-## Compatibility ##
+## TODO: Compatibility ##
 
 This is a list of Linux distros and their versions that are difinitively compatible with `docker-compose`.  There may be more distros that are compatible, or earlier versions that work.
 
@@ -103,7 +103,7 @@ compatible since >= 16.04
 
 ## Final Notes ##
 
-### Red Hat Enterprise Linux (RHEL) ###
+### TODO: Red Hat Enterprise Linux (RHEL) ###
 32 bit incompatible through all versions
 
 check [here](https://github.com/katyushasama/RCOS/blob/main/docker_download.txt) to install docker and docker compose
