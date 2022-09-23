@@ -1,6 +1,11 @@
 # RCOS #
 This repo stores documentation as to what I've done in the Rensselear Center for Open Source (RCOS).
 
+## A Series of Small Projects ##
+In the Spring of 2022, I created a personal website to showcase my resume / skills / adventures.  You can find it [here]{https://alicebibaud.github.io/}.  I also contributed to telescope and led the class in my first semester as a coordinator.
+
+Any file committed between 01/01/2022 and 05/30/2022 is part of this project.
+
 ## Graf + Submitty ##
 In RCOS, I was just a mentor during the 2021 Summer Semester, so I was not part of any official project.  However,
 through Software Design and Documentation, I worked on developing new algorithms within Graf and wrote a 30 page
