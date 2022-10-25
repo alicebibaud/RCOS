@@ -1,6 +1,9 @@
 # RCOS #
 This repo stores documentation as to what I've done in the Rensselear Center for Open Source (RCOS).
 
+## Telescope ##
+In the Fall of 2022, I got ambitious and decided to try my hand at Rust development for RCOS's website.  So far, we haven't gotten very far, just been trying to coordinate the logistics of how Telescope can be maintained for future semesters.  You can find the repo for Telescope [here] {https://github.com/rcos/Telescope}.
+
 ## A Series of Small Projects ##
 In the Spring of 2022, I created a personal website to showcase my resume / skills / adventures.  You can find it [here]{https://alicebibaud.github.io/}.  I also contributed to telescope and led the class in my first semester as a coordinator.
 
